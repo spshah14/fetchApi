@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Shreyash Shah",
+      "email": "shahshreyash3@gmail.com",
+      "city": "Karjan",
+      "phone": "9327025427",
+      "id": 1
+    },
+    {
+      "name": "Het Shah",
+      "email": "hetshah13@gmail.com",
+      "city": "Karjan",
+      "phone": "7874916704",
+      "id": 2
+    },
+    {
+      "name": "Jinay Shah",
+      "email": "jinay5@gmail.com",
+      "city": "Karjan",
+      "phone": "8401758243",
+      "id": 3
+    },
+    {
+      "name": "Khushi Shah",
+      "email": "khushi@gmail.com",
+      "city": "Karjan",
+      "phone": "7874916704",
+      "id": 4
+    },
+    {
+      "name": "Nikhil babariya",
+      "email": "Sincere@april.biz",
+      "city": "Surat",
+      "phone": "5419919719",
+      "id": 5
+    },
+    {
+      "name": "Hemang",
+      "email": "hemang@gmail.com",
+      "city": "Vadodara",
+      "phone": "1565946694",
+      "id": 6
+    }
+  ]
+}
